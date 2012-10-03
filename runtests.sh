@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# IOS - Projekt 1
-# Autor: F. Kolacek xkolac12
-#
-# jednotlive adresa sort dle absolutni cesty
+# IOS1 - Program test checker
+# Autor: Frantisek Kolacek (franco@kolacek.it)
 
 export LC_ALL=C
 

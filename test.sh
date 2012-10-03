@@ -1,4 +1,5 @@
 #!/bin/bash
+
 app="./runtests.sh"
 
 clear
